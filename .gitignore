@@ -1,0 +1,8 @@
+# Editor / OS cruft
+*~
+*.swp
+.DS_Store
+.directory
+
+# Built release packages (regenerate with ./pack.sh)
+*.plasmoid
