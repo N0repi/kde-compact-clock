@@ -21,12 +21,14 @@ Right-click the widget → **Configure Compact Clock** → **Appearance**
 - **Segment order:** presets or custom `time,day,date`
 - **Separator:** default is ` | ` but it can be any character. eg ` x `
 - Day / date / time formats, time zone, font (same ideas as stock)
+- The `Date format` is rendered as the primary clock.
 
 ![settings](screenshots/CompactClockSettings.png)
 
 Examples:
 
 ![day,date,time](screenshots/dayDateTime.png)
+![panel](screenshots/panel.png)
 
 | Order | Example |
 |-------|---------|
