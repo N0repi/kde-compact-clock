@@ -8,7 +8,7 @@
         ],
         "Category": "Date and Time",
         "Description": "Compact panel clock with configurable order for time, day, and date on one line",
-        "Icon": "preferences-system-time",
+        "Icon": "/icon.png",
         "Id": "com.github.N0repi.compactclock",
         "License": "GPL-3.0-or-later",
         "Name": "Compact Clock",
